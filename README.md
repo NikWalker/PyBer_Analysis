@@ -14,6 +14,7 @@ The following dataframe was created to compare how many rides, how many drivers,
 
 ##### PyBer Summary for City Type
 ![summary dataframe](analysis/pyber_summary_df.png)
+
 From this data set, it can be concluded that as the city type becomes more populated and dense, the amount of rides taken increases significantly, while the average rate per ride decreases. This looks to be due to the accessability in more urban spaces, and having a larger driver pool. Since the drivers have more competition for rides this brings the average fare per driver down. Adversely, in rural communities there are less drivers, which increases the average fare per driver well above the rates of urban communities. 
 
 
