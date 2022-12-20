@@ -14,11 +14,16 @@ The following dataframe was created to compare how many rides, how many drivers,
 
 ##### PyBer Summary for City Type
 ![summary dataframe](analysis/pyber_summary_df.png)
+From this data set, it can be concluded that as the city type becomes more populated and dense, the amount of rides taken increases significantly, while the average rate per ride decreases. This looks to be due to the accessability in more urban spaces, and having a larger driver pool. Since the drivers have more competition for rides this brings the average fare per driver down. Adversely, in rural communities there are less drivers, which increases the average fare per driver well above the rates of urban communities. 
+
 
 ### Analysis of Total Fares for each City Type
 
-The following line chart show the total fare by city type for every week, from January 2019 to April 2019.
+The following line chart shows the total fare by city type for every week, from January 2019 to April 2019.
 ![Total Fares Based on the Type of City](analysis/PyBer_Fare.png)
- 
+ Based on the above chart, the total fares of ride-share services is seemingly steady over time, regaurdless of the city type.  Urban communities are Pyber's biggest generator of ride-share revenue, followed by suburban, and then rural cities. 
 
-## Results
+## Summary 
+
+Rural cities seem to be underserved. It is reccommended to further dive in an obtain more data to see if there is enough demand for ridesharing to justify hiring drivers, to lower costs for customers in rural cities. 
+Furthermore, it would be a good idea to look into the distance traveled for these rides. This may give us an idea into wheather it is supply and demand that effects the average fares for each city, or if rural cities have to travel farther per ride than their urban city counterparts. Which could also drive up the cost for PyBer customers. 
